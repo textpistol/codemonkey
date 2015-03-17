@@ -1,9 +1,12 @@
+/* stuff */
 include<stdio.h>
  
 
  /* These are commments added for grins */
 
  /* I am changing this version to test git */
+ 
+ /* just added some comments from my desk workstation */
 
  main()
  {
